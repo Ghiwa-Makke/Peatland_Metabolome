@@ -1,0 +1,46 @@
+SampleCode,SampleID,Site,Subsite,Rep,Type,pH,Acetate,Propionate,Butyrate
+GSL_01212026_Malak_Sample1,S1-T1A-10-a,S1,A,a,Bog,4.1,<LOQ,<LOQ,<LOQ
+GSL_01212026_Malak_Sample2,S1-T1A-10-b,S1,A,b,Bog,4.1,<LOQ,<LOQ,<LOQ
+GSL_01212026_Malak_Sample3,S1-T1A-10-c,S1,A,c,Bog,4.1,<LOQ,<LOQ,8.244
+GSL_01212026_Malak_Sample4,S1-T1B-10-a,S1,B,a,Bog,3.54,<LOQ,<LOQ,<LOQ
+GSL_01212026_Malak_Sample5,S1-T1B-10-b,S1,B,b,Bog,3.54,<LOQ,<LOQ,<LOQ
+GSL_01212026_Malak_Sample6,S1-T1B-10-c,S1,B,c,Bog,3.54,<LOQ,<LOQ,<LOQ
+GSL_01212026_Malak_Sample7,S1-T1C-10-a,S1,C,a,Bog,3.83,10.723,<LOQ,<LOQ
+GSL_01212026_Malak_Sample8,S1-T1C-10-b,S1,C,b,Bog,3.83,<LOQ,<LOQ,<LOQ
+GSL_01212026_Malak_Sample9,S1-T1C-10-c,S1,C,c,Bog,3.83,<LOQ,<LOQ,<LOQ
+GSL_01212026_Malak_Sample10,US2-A-Surface-a,US2,A,a,Fen,5.18,13.789,<LOQ,12.361
+GSL_01212026_Malak_Sample11,US2-A-Surface-b,US2,A,b,Fen,5.18,<LOQ,<LOQ,9.534
+GSL_01212026_Malak_Sample12,US2-A-Surface-c,US2,A,c,Fen,5.18,<LOQ,<LOQ,8.486
+GSL_01232026_Malak_Sample34,US2-B-Surface-a,US2,B,a,Fen,5.7,73.632,11.483,45.182
+GSL_01232026_Malak_Sample35,US2-B-Surface-b,US2,B,b,Fen,5.7,42.434,7.918,15.357
+GSL_01232026_Malak_Sample36,US2-B-Surface-c,US2,B,c,Fen,5.7,45.91,8.899,18.874
+GSL_01232026_Malak_Sample37,US2-C-Surface-a,US2,C,a,Fen,4.44,176.82,<LOQ,<LOQ
+GSL_01232026_Malak_Sample38,US2-C-Surface-b,US2,C,b,Fen,4.44,81.106,<LOQ,<LOQ
+GSL_01232026_Malak_Sample39,US2-C-Surface-c,US2,C,c,Fen,4.44,117.531,<LOQ,<LOQ
+GSL_01212026_Malak_Sample13,LC-A-Surface-a,LC,A,a,Shrub Wetland,5.71,14.464,<LOQ,<LOQ
+GSL_01212026_Malak_Sample14,LC-A-Surface-b,LC,A,b,Shrub Wetland,5.71,13.336,<LOQ,<LOQ
+GSL_01212026_Malak_Sample15,LC-A-Surface-c,LC,A,c,Shrub Wetland,5.71,<LOQ,<LOQ,<LOQ
+GSL_01232026_Malak_Sample40,LC-B-Surface-a,LC,B,a,Shrub Wetland,5.46,301.603,7.792,<LOQ
+GSL_01232026_Malak_Sample41,LC-B-Surface-b,LC,B,b,Shrub Wetland,5.46,281.18,10.6,<LOQ
+GSL_01232026_Malak_Sample42,LC-B-Surface-c,LC,B,c,Shrub Wetland,5.46,313.521,8.253,<LOQ
+GSL_01232026_Malak_Sample43,LC-C-Surface-a,LC,C,a,Shrub Wetland,5.52,164.505,8.056,<LOQ
+GSL_01232026_Malak_Sample44,LC-C-Surface-b,LC,C,b,Shrub Wetland,5.52,376.064,13.487,<LOQ
+GSL_01232026_Malak_Sample45,LC-C-Surface-c,LC,C,c,Shrub Wetland,5.52,203.557,7.727,<LOQ
+GSL_01222026_Malak_Sample16,BLF-A-Surface-a,BLF,A,a,Fen,4.02,<LOQ,<LOQ,<LOQ
+GSL_01222026_Malak_Sample17,BLF-A-Surface-b,BLF,A,b,Fen,4.02,<LOQ,<LOQ,<LOQ
+GSL_01222026_Malak_Sample18,BLF-A-Surface-c,BLF,A,c,Fen,4.02,<LOQ,<LOQ,<LOQ
+GSL_01222026_Malak_Sample19,BLF-B-Surface-a,BLF,B,a,Fen,3.9,<LOQ,<LOQ,<LOQ
+GSL_01222026_Malak_Sample20,BLF-B-Surface-b,BLF,B,b,Fen,3.9,<LOQ,<LOQ,14.489
+GSL_01222026_Malak_Sample21,BLF-B-Surface-c,BLF,B,c,Fen,3.9,<LOQ,<LOQ,18.098
+GSL_01222026_Malak_Sample22,BLF-C-Surface-a,BLF,C,a,Fen,3.8,<LOQ,<LOQ,<LOQ
+GSL_01222026_Malak_Sample23,BLF-C-Surface-b,BLF,C,b,Fen,3.8,<LOQ,<LOQ,<LOQ
+GSL_01222026_Malak_Sample24,BLF-C-Surface-c,BLF,C,c,Fen,3.8,<LOQ,<LOQ,<LOQ
+GSL_01222026_Malak_Sample25,S3A-Surface-a,S3,A,a,Fen,6.19,26.629,<LOQ,9.935
+GSL_01222026_Malak_Sample26,S3A-Surface-b,S3,A,b,Fen,6.19,18.786,<LOQ,8.566
+GSL_01222026_Malak_Sample27,S3A-Surface-c,S3,A,c,Fen,6.19,12.906,<LOQ,<LOQ
+GSL_01222026_Malak_Sample28,S3B-Surface-a,S3,B,a,Fen,6.34,14.784,<LOQ,<LOQ
+GSL_01222026_Malak_Sample29,S3B-Surface-b,S3,B,b,Fen,6.34,9.546,<LOQ,<LOQ
+GSL_01222026_Malak_Sample30,S3B-Surface-c,S3,B,c,Fen,6.34,156.507,18.491,28.872
+GSL_01232026_Malak_Sample31,S3C-Surface-a,S3,C,a,Fen,6.4,213.265,6.442,<LOQ
+GSL_01232026_Malak_Sample32,S3C-Surface-b,S3,C,b,Fen,6.4,8.559,<LOQ,<LOQ
+GSL_01232026_Malak_Sample33,S3C-Surface-c,S3,C,c,Fen,6.4,10.181,<LOQ,7.56
